@@ -1,0 +1,6 @@
+{
+  "name": "HNDE Labuduwa Alumni Association",
+  "description": "Official feedback, rating, and alumni event photography platform for the HNDE Labuduwa Alumni Association Get-Together & Professional Networking Event 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
